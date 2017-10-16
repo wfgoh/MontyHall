@@ -43,9 +43,9 @@ for i in range(samplesize):
         countrandomguess += 1
     
 print('No swtich after door opened:',countwin,'wins over',samplesize,'times')
-print('Probability =',countwin/samplesize)
+print('Probability =',float(countwin)/float(samplesize))
 print('Switch after door opened:',countswitch,'wins over',samplesize,'times')
-print('Probability =',countswitch/samplesize)
+print('Probability =',float(countswitch)/float(samplesize))
 print('Random guess after door opened:',countrandomguess,'wins over',samplesize,'times')
-print('Probability =',countrandomguess/samplesize)
+print('Probability =',float(countrandomguess)/float(samplesize))
 #print(countlose,countlose/samplesize)
