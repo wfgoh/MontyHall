@@ -25,12 +25,12 @@ Say if you initially pick door 1:
 The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she switch or stick to the initial choice.
 
 **Result**</br>
-No switch after door opened: 33 wins over 100 times</br>
-Probability = 0.33</br>
-Switch after door opened: 67 wins over 100 times</br>
-Probability = 0.67</br>
-Random guess after door opened: 54 wins over 100 times</br>
-Probability = 0.54
+No swtich after door opened: 34 wins over 100 times</br>
+Probability = 0.34</br>
+Switch after door opened: 66 wins over 100 times</br>
+Probability = 0.66</br>
+Random guess after door opened: 51 wins over 100 times</br>
+Probability = 0.51
 
 **Conclusion**</br>
 The result is obvious that if you switch, your chances of winning the car is close to 2/3, while it is close to 1/3 if you don't.
