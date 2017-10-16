@@ -9,9 +9,9 @@ Suppose you're on a game show, and you're given the choice of three doors: Behin
 (Source: Wikipedia)
 
 **Result**</br>
-No change after door opened: 33 wins over 100 times
-Probability = 0.33
-Change after door opened: 67 wins over 100 times
-Probability = 0.67
-Random guess after door opened: 54 wins over 100 times
+No change after door opened: 33 wins over 100 times</br>
+Probability = 0.33</br>
+Change after door opened: 67 wins over 100 times</br>
+Probability = 0.67</br>
+Random guess after door opened: 54 wins over 100 times</br>
 Probability = 0.54
