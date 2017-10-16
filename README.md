@@ -9,7 +9,7 @@ Suppose you're on a game show, and you're given the choice of three doors: Behin
 (Source: Wikipedia)
 
 **Hypothesis**</br>
-A simple solution proposed by Vos Savant saying that your chances of winning the car is 0.67 or 2/3 if you switch, while it is 0.33 or 1/3 if you stick to your initial choice. Also, it is not fifty-fifty.
+A simple solution proposed by Vos Savant saying that your chances of winning the car is 0.67 or 2/3 if you switch, while it is 0.33 or 1/3 if you stick to your initial choice. Also, it is not fifty-fifty.</br>
 Say if you initially pick door 1:
 
 | Behind door 1 | Behind door 2 | Behind door 3 | Result if staying at door 1 |	Result if switching to the door offered |
@@ -18,14 +18,8 @@ Say if you initially pick door 1:
 | Goat          | Car           | Goat          | Wins goat                   | Wins car                                |
 | Goat          | Goat          | Car           | Wins goat                   | Wins car                                |
 
-| First Header  | Second Header | First Header  | Second Header |Second Header |
-| ------------- | ------------- | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
-| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
-| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
-
 **Simulation**</br>
-The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she swith or stick to the initial choice.
+The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she switch or stick to the initial choice.
 
 **Result**</br>
 No switch after door opened: 33 wins over 100 times</br>
