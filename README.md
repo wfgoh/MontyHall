@@ -22,7 +22,7 @@ Say if you initially pick door 1:
 (Source: Wikipedia)
 
 **Simulation**</br>
-The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she switch or stick to the initial choice.
+The code montyhall.py simulates the real-time event at the game show, and calculates the chances or probability of the guest winning the car if he/she switch or stick to the initial choice.
 
 **Result**</br>
 No swtich after door opened: 34 wins over 100 times</br>
