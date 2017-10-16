@@ -14,9 +14,7 @@ If you initially pick door 1:</br>
 | Behind door 1 | Behind door 2 | Behind door 3 | Result if staying at door 1 |	Result if switching to the door offered |
 | ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
 | Car           | Goat          | Goat          | Wins car                    | Wins goat                               |
-| ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
 | Goat          | Car           | Goat          | Wins goat                   | Wins car                                |
-| ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
 | Goat          | Goat          | Car           | Wins goat                   | Wins car                                |
 
 | First Header  | Second Header | First Header  | Second Header |
