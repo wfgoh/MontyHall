@@ -17,11 +17,11 @@ If you initially pick door 1:</br>
 | Goat          | Car           | Goat          | Wins goat                   | Wins car                                |
 | Goat          | Goat          | Car           | Wins goat                   | Wins car                                |
 
-| First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | First Header  | Second Header |
-| Content Cell  | Content Cell  | First Header  | Second Header |
-| Content Cell  | Content Cell  | First Header  | Second Header |
+| First Header  | Second Header | First Header  | Second Header |Second Header |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
+| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
+| Content Cell  | Content Cell  | First Header  | Second Header |Second Header |
 
 **Simulation**</br>
 The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she swith or stick to the initial choice.
