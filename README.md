@@ -35,4 +35,4 @@ Probability = 0.54
 **Conclusion**</br>
 The result is obvious that if you switch, your chances of winning the car is close to 2/3, while it is close to 1/3 if you don't.
 If make a random guess between the two unopened doors, your chances of winning the car is close to 0.5.
-So you know what to do next time if you happen to be invited to the game show.
+So you know what to do next time if you happen to be invited to the game show, i.e. always switch and don't make a random guess after a door is opened.
