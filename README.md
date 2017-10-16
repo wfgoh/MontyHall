@@ -18,6 +18,7 @@ Say if you initially pick door 1:
 | Car           | Goat          | Goat          | Wins car                    | Wins goat                               |
 | Goat          | Car           | Goat          | Wins goat                   | Wins car                                |
 | Goat          | Goat          | Car           | Wins goat                   | Wins car                                |
+
 </br>(Source: Wikipedia)
 
 **Simulation**</br>
