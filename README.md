@@ -10,11 +10,14 @@ Suppose you're on a game show, and you're given the choice of three doors: Behin
 
 **Hypothesis**</br>
 A simple solution proposed by Vos Savant saying that your chances of winning the car is 0.67 or 2/3 if you switch, while it is 0.33 or 1/3 if you stick to your initial choice. Also, it is not fifty-fifty.
-If you initially pick door 1:
+If you initially pick door 1:</br>
 | Behind door 1 | Behind door 2 | Behind door 3 | Result if staying at door 1 |	Result if switching to the door offered |
 | ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
-| Car           | Goat |
-| Content Cell  | Content Cell  |
+| Car           | Goat          | Goat          | Wins car                    | Wins goat                               |
+| ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
+| Goat          | Car           | Goat          | Wins goat                   | Wins car                                |
+| ------------- | ------------- | --------------| --------------------------- | --------------------------------------- |
+| Goat          | Goat          | Car           | Wins goat                   | Wins car                                |
 
 **Simulation**</br>
 The code montyhall.py simulates the real-time event at the game show, and calculate the chances or probability of the guest winning the car if he/she swith or stick to the initial choice.
